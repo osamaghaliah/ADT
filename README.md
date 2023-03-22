@@ -7,15 +7,15 @@
 **In order to run, perform the following commands in your terminal sequencely:**
   * make demo
   
-      >_This command compiles the Demo.c program._
+      >_This command compiles the all .c files._
       
   * make run
   
-     >_This command runs the compiled program._
+     >_This command runs the main._
      
   * make mem_test
   
-     >_This command tests the whole program. Specially, in terms of memory._
+     >_This command tests the whole program. Specially, memory status._
      
 **Helping sources**:
   * freeCodeCamp.org
